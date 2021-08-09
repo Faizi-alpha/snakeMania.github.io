@@ -21,4 +21,4 @@ Here is how the game looks
 
 ![gme](https://user-images.githubusercontent.com/39314095/128719772-35b60abc-419e-42a5-886e-20b6c4778104.PNG)
 
-Modify the value of speed varible (On line no : 14) and Enjoy the Game.
+Modify the value of speed variable (On line no : 14) and Enjoy the Game.
